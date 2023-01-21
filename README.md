@@ -1,7 +1,7 @@
-# CO2 Emissions project
-This is a basic Pre-processing and EDA project using CO2 emissions data which was obtained from the [repository](https://github.com/owid/co2-data) of the Our World in Data Non-Governmental Organization (NGO).
+# **Global CO<sub>2</sub> Emissions**
+This is a pre-processing and EDA project using CO<sub>2</sub> emissions data which was obtained from the [repository](https://github.com/owid/co2-data) of the Our World in Data Non-Governmental Organization (NGO).
 
-This repo is also created to understand better and follow a professional workflow creating virtual environments and installing packages.
+This repo was created for self-educational purposes, in order to better understand and follow a professional Data Science workflow and structure, creating virtual environments and installing packages. Furthermore, the Pandas API was extended for organizing the code in modules and automating the (mostly missing values so far) EDA process. The data pre-processing source code can be found in the **`co2.ipynb`** file.
 
 ## **Instructions**
 
@@ -29,3 +29,5 @@ conda activate myenv
 ```
 conda install -r requirements.txt
 ```
+## **To-do**
+- Create visualizations and dashboard using Power BI (or any BI tool) and explain the findings in such visualizations.
