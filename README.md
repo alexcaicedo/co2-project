@@ -30,4 +30,4 @@ conda activate myenv
 conda install -r requirements.txt
 ```
 ## **To-do**
-- Create visualizations and dashboard using Power BI (or any BI tool) and explain the findings in such visualizations.
+- Create a written report explaining the visualizations of the pbix dashboard.
